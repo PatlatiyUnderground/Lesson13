@@ -1,3 +1,5 @@
+package computer.cpu;
+
 public enum Power {
     LOW("Cpu power Low"),
     MEDIUM("Cpu power Medium"),

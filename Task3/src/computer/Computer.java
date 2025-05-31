@@ -1,4 +1,10 @@
-import org.w3c.dom.ls.LSOutput;
+package computer;
+
+import computer.cpu.CPU;
+import computer.hd.HD;
+import computer.keyboard.Keyboard;
+import computer.ram.RAM;
+import computer.screen.Screen;
 
 public class Computer {
 
@@ -54,7 +60,7 @@ public class Computer {
 
     @Override
     public String toString() {
-        return "Computer{" +
+        return "computer.Computer{" +
                 "vendor='" + vendor + '\'' +
                 ", \nname='" + name + '\'' +
                 ", \ncpu=" + cpu +

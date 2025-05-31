@@ -1,4 +1,8 @@
-public class RAM {
+package computer.hd;
+
+public class HD {
+
+    private HDType hdType;
 
     double weight = 1.0;
     double volume = 1.0;

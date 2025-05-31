@@ -1,3 +1,5 @@
+package computer.keyboard;
+
 public enum KeyboardType {
 
     MECHANICAL("MECHANICAL"),

@@ -1,3 +1,5 @@
+package computer.cpu;
+
 public enum CpuHz {
     LOW("Cpu Hz Low"),
     MEDIUM("Cpu Hz Medium"),

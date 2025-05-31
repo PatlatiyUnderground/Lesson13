@@ -1,3 +1,5 @@
+package computer.cpu;
+
 public enum CpuCore {
 
     TWO("Cpu Core Two"),

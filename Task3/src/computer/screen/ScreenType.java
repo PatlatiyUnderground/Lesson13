@@ -1,6 +1,8 @@
+package computer.screen;
+
 public enum ScreenType {
 
-    LCD("LCD"),
+    LCD("computer.keyboard.LCD"),
     OLED("OLED"),;
 
     private String value;

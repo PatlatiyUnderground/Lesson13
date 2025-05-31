@@ -1,7 +1,9 @@
+package computer.hd;
+
 public enum HDType {
 
-    SSD("HD SSD"),
-    HDD("HD HDD"),;
+    SSD("computer.hd.HD SSD"),
+    HDD("computer.hd.HD HDD"),;
 
     private String value;
     HDType(String value) {

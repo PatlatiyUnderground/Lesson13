@@ -1,6 +1,8 @@
+package computer.keyboard;
+
 public enum LCD {
 
-    LCD("LCD"),
+    LCD("computer.keyboard.LCD"),
     NOLCD("NOLCD"),;
 
     private String value;
